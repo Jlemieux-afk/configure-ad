@@ -46,14 +46,11 @@ Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Co
     <td align="center">Client 1 also on the same network</td>
   </tr>
 </table>
-
 </p>
-
 <p>
 Then configured the network for AD-1 to have a static 10.0.0.4 IP address to prevent random IP configuration errors.
 </p>
 <br />
-
 <p>
 <table>
   <tr>
@@ -65,17 +62,15 @@ Then configured the network for AD-1 to have a static 10.0.0.4 IP address to pre
   <tr>
     <td align="center">AD-1 IP address changed to 10.0.0.4 static</td>
     <td align="center">CLient-1 DNS server changed to AD-1 IP address</td>
-    
   </tr>
 </table>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Confirmed that Client-1 saw AD-1 as it's DNS server
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb02adf3-2ff8-4352-a096-d7d04575a420" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
