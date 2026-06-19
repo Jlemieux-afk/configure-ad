@@ -127,13 +127,13 @@ Created an OU for admins and employees to organize users.
   <tr>
     <td><img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/0bceb664-fa53-4dde-8b25-53b818fc242b" />
 </td>
-     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
+     <td><img width="998" height="679" alt="image" src="https://github.com/user-attachments/assets/a4c9c4e0-661b-441b-9707-70f36c6c633c" />
 </td>
 
   </tr>
   <tr>
-    <td align="center">Created a group policy to edit</td>
-    <td align="center">success!</td>
+    <td align="center">New OU for the computers being accessed</td>
+    <td align="center">edited the rule to enable "allow users to connect remotely"</td>
   </tr>
 </table></p>
 
