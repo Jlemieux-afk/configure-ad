@@ -91,6 +91,7 @@ Created an OU for admins and employees to organize users.
 </td>
 <td><img width="1193" height="896" alt="image" src="https://github.com/user-attachments/assets/a3d0e860-8792-408d-b25b-da572bcb4aba" />
 </td>
+  </tr>
   <tr>
     <td align="center">names listed as admin</td>
     <td align="center">logging in to client-1 using domain login. it failed</td>
@@ -103,8 +104,8 @@ Created an OU for admins and employees to organize users.
 </p>
 <p><img width="791" height="541" alt="image" src="https://github.com/user-attachments/assets/76bc8303-63bc-42c0-a3ab-5ff1936ef4ea" />
 </p>
-<p>Logged in again with created accoutns to Client-1 </p>
 </br>
+<p>Logged in again with created accoutns to Client-1 </p>
 <p>
 <table>
   <tr>
