@@ -40,9 +40,10 @@ This is step 1 where the video shows a quick overview of setting up the base inf
 </td>
   </tr>
   <tr>
-    <td align="center">Caption 1</td>
-    <td align="center">Caption 2</td>
-    <td align="center">Caption 3</td>
+    <td align="center">Active Directory Server setup</td>
+    <td align="center">Network for Active Directory</td>
+    <td align="center">Client 1 set up</td>
+    <td align="center">Client 2 also on the same network</td>
   </tr>
 </table>
 
