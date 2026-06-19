@@ -29,27 +29,8 @@ This project outlines the implementation of Active Directory within Azure Virtua
 
 Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Controller, and the other using Win10 Enterprise for the EndUser
 <p>
-<table>
-  <tr>
-    <td><img width="1424" height="283" alt="image" src="https://github.com/user-attachments/assets/ca7424dd-0699-4f06-9aa8-0abe18cb7f3f" />
-</td>
-    <td><img width="864" height="770" alt="image" src="https://github.com/user-attachments/assets/ba08ce62-9fd1-4769-9388-87fa5eb51810" />
-</td>
-    <td><img width="861" height="464" alt="image" src="https://github.com/user-attachments/assets/473fbd79-c4e9-46a3-87a5-153eb5da5e86" />
-</td>
-    <td><img width="789" height="541" alt="image" src="https://github.com/user-attachments/assets/ddb889d8-b4f5-4690-9f14-b428c382f321" />
-</td>
-    <td><img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/2fd736a3-3646-4df3-b73a-6a55e05c8855" />
-</td>
-  </tr>
-  <tr>
-    <td align="center">2 VM's running on one network</td>
-    <td align="center">Active Directory Server setup</td>
-    <td align="center">Network for Active Directory</td>
-    <td align="center">Client 1 set up</td>
-    <td align="center">Client 1 also on the same network</td>
-  </tr>
-</table>
+<img width="1424" height="283" alt="image" src="https://github.com/user-attachments/assets/5eaba60b-7eef-46d4-9192-ab7fffe56e35" />
+
 </p>
 <p>
 Then configured the network for AD-1 to have a static 10.0.0.4 IP address to prevent random IP configuration errors.
