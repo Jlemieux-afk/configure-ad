@@ -49,10 +49,10 @@ Then configured the network for AD-1 to have a static 10.0.0.4 IP address to pre
   </tr>
 </table>
 </p>
+</br>
 <p>
 Confirmed that Client-1 saw AD-1 as it's DNS server
 </p>
-<br />
 <p>
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb02adf3-2ff8-4352-a096-d7d04575a420" />
 </p>
