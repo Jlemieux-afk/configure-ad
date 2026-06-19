@@ -142,4 +142,35 @@ Created an OU for admins and employees to organize users.
     <td align="center">gpupdate /force on the client to update policy, check for localgroup "remote desktop users" "members COMPANY/Domain Users"</td>
   </tr>
 </table></p>
+</br>
+<p>Attmpted to log back into John Doe account with the updated policy, and it worked! To make sure it works for new hires, I added one more account to the employees folder </p>
+<p>
+  <table>
+  <tr>
+    <td><table>
+  <tr>
+    <td><img width="453" height="578" alt="image" src="https://github.com/user-attachments/assets/c461dab0-8167-48dd-8a9d-bb4f8ab80046" />
+</td>
+     <td><img width="883" height="353" alt="image" src="https://github.com/user-attachments/assets/17335a70-4d5b-4f9e-ab0e-c0c93335f1d4" />
+</td>
 
+  </tr>
+  <tr>
+    <td align="center">Logging in as Tim Ward</td>
+    <td align="center">success!</td>
+  </tr>
+</table>
+</br>
+
+</td>
+     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
+</td>
+
+  </tr>
+  <tr>
+    <td align="center">Logging in again</td>
+    <td align="center">success!</td>
+  </tr>
+</table>
+</br>
+</p>
