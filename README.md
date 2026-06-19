@@ -161,16 +161,4 @@ Created an OU for admins and employees to organize users.
   </tr>
 </table>
 </br>
-<table></table>
-</td>
-     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
-</td>
 
-  </tr>
-  <tr>
-    <td align="center">Logging in again</td>
-    <td align="center">success!</td>
-  </tr>
-</table>
-</br>
-</p>
