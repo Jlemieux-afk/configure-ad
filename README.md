@@ -73,6 +73,24 @@ Confirmed that Client-1 saw AD-1 as it's DNS server
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb02adf3-2ff8-4352-a096-d7d04575a420" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On AD-1, Install Active Directory Services from the server manager
 </p>
 <br />
+<table>
+  <tr>
+    <td><img width="1522" height="854" alt="image" src="https://github.com/user-attachments/assets/2be330d7-0910-4d41-af97-80b371fc648b" />
+</td>
+    <td><img width="1426" height="762" alt="image" src="https://github.com/user-attachments/assets/95b3f15d-7b22-46ff-a0a4-e973aee5b465" />
+</td>
+    <td><img width="789" height="541" alt="image" src="https://github.com/user-attachments/assets/ddb889d8-b4f5-4690-9f14-b428c382f321" />
+</td>
+    <td><img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/2fd736a3-3646-4df3-b73a-6a55e05c8855" />
+</td>
+  </tr>
+  <tr>
+    <td align="center">Add Roles</td>
+    <td align="center">Active Directory Domain Services</td>
+    <td align="center">Client 1 set up</td>
+    <td align="center">Client 1 also on the same network</td>
+  </tr>
+</table>
