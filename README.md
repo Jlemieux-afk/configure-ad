@@ -31,6 +31,8 @@ Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Co
 <p>
 <table>
   <tr>
+    <td><img width="1424" height="283" alt="image" src="https://github.com/user-attachments/assets/ca7424dd-0699-4f06-9aa8-0abe18cb7f3f" />
+</td>
     <td><img width="864" height="770" alt="image" src="https://github.com/user-attachments/assets/ba08ce62-9fd1-4769-9388-87fa5eb51810" />
 </td>
     <td><img width="861" height="464" alt="image" src="https://github.com/user-attachments/assets/473fbd79-c4e9-46a3-87a5-153eb5da5e86" />
@@ -41,6 +43,7 @@ Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Co
 </td>
   </tr>
   <tr>
+    <td align="center">2 VM's running on one network</td>
     <td align="center">Active Directory Server setup</td>
     <td align="center">Network for Active Directory</td>
     <td align="center">Client 1 set up</td>
