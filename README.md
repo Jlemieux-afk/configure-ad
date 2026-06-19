@@ -75,7 +75,7 @@ On AD-1, Install Active Directory Services from the server manager. After it's i
 </table>
 </br>
 <p>
-Created an OU for admins and users so that many users can access the domain and files on the domain for organization and safty.
+Created an OU for admins and employees to organize users.
 </p>
 <p> <img width="790" height="532" alt="image" src="https://github.com/user-attachments/assets/57ef6d58-98b0-4045-88ec-385f738e2518" />
 </p>
