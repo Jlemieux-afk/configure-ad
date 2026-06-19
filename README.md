@@ -62,8 +62,6 @@ On AD-1, Install Active Directory Services from the server manager. After it's i
 </p>
 <table>
   <tr>
-    <td><img width="1522" height="854" alt="image" src="https://github.com/user-attachments/assets/2be330d7-0910-4d41-af97-80b371fc648b" />
-</td>
     <td><img width="1426" height="762" alt="image" src="https://github.com/user-attachments/assets/95b3f15d-7b22-46ff-a0a4-e973aee5b465" />
 </td>
     <td><img width="1437" height="750" alt="image" src="https://github.com/user-attachments/assets/737720e2-dbd6-4f6a-a696-7059e85def59" />
@@ -74,7 +72,6 @@ On AD-1, Install Active Directory Services from the server manager. After it's i
 </td>
   </tr>
   <tr>
-    <td align="center">Add Roles</td>
     <td align="center">Active Directory Domain Services, click next and install</td>
     <td align="center">Promote this server to a domain controller</td>
     <td align="center">Make a new forest, and enter a root domain name. I chose company.com</td>
