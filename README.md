@@ -26,7 +26,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 
 <h2>Deployment and Configuration Steps</h2>
 
-This is step 1 where the video shows a quick overview of setting up the base infristructure we need to set up the AD service.
+Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Controller, and the other using Win10 Enterprise for the EndUser
 <p>
 <table>
   <tr>
