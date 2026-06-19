@@ -122,10 +122,10 @@ Created an OU for admins and employees to organize users.
   </tr>
 </table>
 </br>
-<p> Created a GPO under _employees to allow users in the group to access the remote desktop. </p>
+<p> Created a new OU in AD for the computers being accessed. Created a GPO under _computers and edited it to allow users in the group to access the remote desktop. </p>
 <p><table>
   <tr>
-    <td><img width="1396" height="713" alt="image" src="https://github.com/user-attachments/assets/82507d06-529a-4f7d-ba9a-6846ca8b862a" />
+    <td><img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/0bceb664-fa53-4dde-8b25-53b818fc242b" />
 </td>
      <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
 </td>
