@@ -30,8 +30,8 @@ This project outlines the implementation of Active Directory within Azure Virtua
 Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Controller, and the other using Win10 Enterprise for the EndUser
 <p>
 <img width="1424" height="283" alt="image" src="https://github.com/user-attachments/assets/5eaba60b-7eef-46d4-9192-ab7fffe56e35" />
-
 </p>
+</br>
 <p>
 Then configured the network for AD-1 to have a static 10.0.0.4 IP address to prevent random IP configuration errors. Also made Client-1's DNS server AD-1's IP address
 </p>
