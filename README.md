@@ -73,3 +73,24 @@ On AD-1, Install Active Directory Services from the server manager. After it's i
     <td align="center">Make a new forest, and enter a root domain name. I chose company.com</td>
   </tr>
 </table>
+</br>
+<p>
+Created an OU for admins and users so that many users can access the domain and files on the domain for organization and safty.
+</p>
+<p> <img width="790" height="532" alt="image" src="https://github.com/user-attachments/assets/57ef6d58-98b0-4045-88ec-385f738e2518" />
+</p>
+</br>
+<p> Created an admin for myself and one other to test access. Logged into Client-1 with both my and John Doe. Tried to log in the first time and it failed due to cridentials. So through some troubleshooting I didn't give admin privileges to either acount.  </p>
+<table>
+  <tr>
+    <td><img width="754" height="527" alt="image" src="https://github.com/user-attachments/assets/897e3d2f-a9ad-4920-bf4f-e1d3e54989dd" />
+</td>
+     <td><img width="452" height="578" alt="image" src="https://github.com/user-attachments/assets/3ae99950-8420-4dae-927f-2276428810eb" />
+</td>
+
+  </tr>
+  <tr>
+    <td align="center">names listed as admin</td>
+    <td align="center">logging in to client-1 using domain login</td>
+  </tr>
+</table>
