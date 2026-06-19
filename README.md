@@ -50,12 +50,24 @@ Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Co
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then configured the network for AD-1 to have a static 10.0.0.4 IP address to prevent random IP configuration errors.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<table>
+  <tr>
+    <td><img width="1690" height="839" alt="image" src="https://github.com/user-attachments/assets/196b1319-570f-4d3b-a9b4-ca7f15146798" />
+</td>
+    <td><img width="1627" height="776" alt="image" src="https://github.com/user-attachments/assets/91371958-fc35-4205-82a6-fb73326b92b3" />
+</td>
+  </tr>
+  <tr>
+    <td align="center">AD-1 IP address changed to 10.0.0.4 static</td>
+    <td align="center">CLient-1 DNS server changed to AD-1 IP address</td>
+    
+  </tr>
+</table>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
