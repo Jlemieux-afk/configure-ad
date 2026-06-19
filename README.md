@@ -145,6 +145,11 @@ Created an OU for admins and employees to organize users.
 </br>
 <p>Attmpted to log back into John Doe account with the updated policy, and it worked! To make sure it works for new hires, I added one more account to the employees folder </p>
 <p>
+
+<img width="942" height="781" alt="image" src="https://github.com/user-attachments/assets/7ecdb208-0ebc-48a6-bc67-7de23548fc71" />
+
+</p>
+<p>
   <table>
   <tr>
     <td><img width="453" height="578" alt="image" src="https://github.com/user-attachments/assets/c461dab0-8167-48dd-8a9d-bb4f8ab80046" />
