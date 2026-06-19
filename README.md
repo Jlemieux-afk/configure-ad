@@ -100,3 +100,8 @@ Created an OU for admins and users so that many users can access the domain and 
     <td align="center">Logged onto Client 1, changed "member of" to domain "company.com"</td>
   </tr>
 </table>
+</br>
+<p>Success!
+</p>
+<p><img width="554" height="329" alt="image" src="https://github.com/user-attachments/assets/68b9037d-31d2-4d80-803c-035c95067f34" />
+</p>
