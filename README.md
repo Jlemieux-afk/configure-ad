@@ -112,13 +112,25 @@ Created an OU for admins and employees to organize users.
   <tr>
     <td><img width="1426" height="762" alt="image" src="https://github.com/user-attachments/assets/95b3f15d-7b22-46ff-a0a4-e973aee5b465" />
 </td>
-     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/de203100-36b8-44e7-be04-c99d6f61e43b" />
+     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
+
 </td>
 
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center">Success!</td>
+    <td align="center">Logging in again</td>
+    <td align="center">success!</td>
   </tr>
 </table>
+</br></td>
+     <td><img width="796" height="573" alt="image" src="https://github.com/user-attachments/assets/ef727233-4532-445c-b69d-a4f7798ad406" />
+</td>
+
+  </tr>
+  <tr>
+    <td align="center">Active Directory Domain Services, click next and install</td>
+    <td align="center">Make a new forest, and enter a root domain name. I chose company.com</td>
+  </tr>
+</table>
+</br>  
 </p>
