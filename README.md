@@ -108,7 +108,8 @@ Created an OU for admins and employees to organize users.
 <p>
 <table>
   <tr>
-    <td><img width="1426" height="762" alt="image" src="https://github.com/user-attachments/assets/95b3f15d-7b22-46ff-a0a4-e973aee5b465" />
+    <td><img width="453" height="578" alt="image" src="https://github.com/user-attachments/assets/c461dab0-8167-48dd-8a9d-bb4f8ab80046" />
+
 </td>
      <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
 </td>
