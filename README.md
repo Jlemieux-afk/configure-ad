@@ -80,7 +80,7 @@ Created an OU for admins and employees to organize users.
 <p> <img width="790" height="532" alt="image" src="https://github.com/user-attachments/assets/57ef6d58-98b0-4045-88ec-385f738e2518" />
 </p>
 </br>
-<p> Created an admin for myself and one other to test access. Logged into Client-1 with both my and John Doe. Tried to log in the first time and it failed due to cridentials. So through some troubleshooting I didn't give admin privileges to either acount. I also realized I didn't join Client 1 to the domain, which is another reason why the accounts wouldn't log on to that machine.</p>
+<p> Created an admin for myself and one other to test access. Logged into Client-1 with both my and John Doe. Tried to log in the first time and it failed due to cridentials. Through some troubleshooting: I didn't give admin privileges to either acount. Fixed the error by adding them to the domain admins group. I also realized I didn't join Client 1 to the domain, which is another reason why the accounts wouldn't log on to that machine.</p>
 <table>
   <tr>
     <td><img width="754" height="527" alt="image" src="https://github.com/user-attachments/assets/897e3d2f-a9ad-4920-bf4f-e1d3e54989dd" />
