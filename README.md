@@ -82,15 +82,15 @@ On AD-1, Install Active Directory Services from the server manager
 </td>
     <td><img width="1426" height="762" alt="image" src="https://github.com/user-attachments/assets/95b3f15d-7b22-46ff-a0a4-e973aee5b465" />
 </td>
-    <td><img width="789" height="541" alt="image" src="https://github.com/user-attachments/assets/ddb889d8-b4f5-4690-9f14-b428c382f321" />
+    <td><img width="1437" height="750" alt="image" src="https://github.com/user-attachments/assets/737720e2-dbd6-4f6a-a696-7059e85def59" />
 </td>
-    <td><img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/2fd736a3-3646-4df3-b73a-6a55e05c8855" />
+    <td><img width="796" height="573" alt="image" src="https://github.com/user-attachments/assets/ef727233-4532-445c-b69d-a4f7798ad406" />
 </td>
   </tr>
   <tr>
     <td align="center">Add Roles</td>
-    <td align="center">Active Directory Domain Services</td>
-    <td align="center">Client 1 set up</td>
-    <td align="center">Client 1 also on the same network</td>
+    <td align="center">Active Directory Domain Services, click next and install</td>
+    <td align="center">Promote this server to a domain controller</td>
+    <td align="center">Make a new forest, and enter a root domain name. I chose company.com</td>
   </tr>
 </table>
