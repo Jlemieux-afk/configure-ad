@@ -87,10 +87,13 @@ Created an OU for admins and users so that many users can access the domain and 
 </td>
      <td><img width="452" height="578" alt="image" src="https://github.com/user-attachments/assets/3ae99950-8420-4dae-927f-2276428810eb" />
 </td>
+<td><img width="440" height="525" alt="image" src="https://github.com/user-attachments/assets/e86c98ec-3da4-4a2c-8eb2-f6fedcc511c8" />
+</td>
 
   </tr>
   <tr>
     <td align="center">names listed as admin</td>
-    <td align="center">logging in to client-1 using domain login</td>
+    <td align="center">logging in to client-1 using domain login. it failed</td>
+    <td align="center">Added "domain users" to the "members of" to fix the issue</td>
   </tr>
 </table>
