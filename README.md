@@ -105,7 +105,7 @@ Created an OU for admins and employees to organize users.
 <p><img width="791" height="541" alt="image" src="https://github.com/user-attachments/assets/76bc8303-63bc-42c0-a3ab-5ff1936ef4ea" />
 </p>
 </br>
-<p>Logged in again with created accoutns to Client-1 </p>
+<p>Logged in again with created accounts to Client-1. Access works with both admins. </p>
 <p>
 <table>
   <tr>
@@ -121,4 +121,19 @@ Created an OU for admins and employees to organize users.
     <td align="center">success!</td>
   </tr>
 </table>
+</br>
+<p> Created a GPO under _employees to allow users in the group to access the remote desktop. </p>
+<p><table>
+  <tr>
+    <td><img width="1396" height="713" alt="image" src="https://github.com/user-attachments/assets/82507d06-529a-4f7d-ba9a-6846ca8b862a" />
+</td>
+     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/4c780f12-04d7-4224-84ca-919691b3ee36" />
+</td>
+
+  </tr>
+  <tr>
+    <td align="center">Created a group policy to edit</td>
+    <td align="center">success!</td>
+  </tr>
+</table></p>
 
