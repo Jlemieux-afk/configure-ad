@@ -3,6 +3,7 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud with MFA for extra security(Azure)</h1>
+
 This project outlines the implementation of Active Directory within Azure Virtual Machines and then adds MultiFactor Authentication through Microsoft Entra ID within Azure<br />
 
 
