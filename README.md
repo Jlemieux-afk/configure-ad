@@ -91,8 +91,6 @@ Created an OU for admins and employees to organize users.
 </td>
 <td><img width="1193" height="896" alt="image" src="https://github.com/user-attachments/assets/a3d0e860-8792-408d-b25b-da572bcb4aba" />
 </td>
-
-  </tr>
   <tr>
     <td align="center">names listed as admin</td>
     <td align="center">logging in to client-1 using domain login. it failed</td>
@@ -105,3 +103,30 @@ Created an OU for admins and employees to organize users.
 </p>
 <p><img width="554" height="329" alt="image" src="https://github.com/user-attachments/assets/68b9037d-31d2-4d80-803c-035c95067f34" />
 </p>
+<p>Logged in again with created accoutns to Client-1 </p>
+</br>
+<table>
+  <tr>
+    <td><table>
+  <tr>
+    <td><img width="1426" height="762" alt="image" src="https://github.com/user-attachments/assets/95b3f15d-7b22-46ff-a0a4-e973aee5b465" />
+</td>
+     <td><img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/de203100-36b8-44e7-be04-c99d6f61e43b" />
+</td>
+
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">Success!</td>
+  </tr>
+</table>
+</td>
+     <td><img width="796" height="573" alt="image" src="https://github.com/user-attachments/assets/ef727233-4532-445c-b69d-a4f7798ad406" />
+</td>
+
+  </tr>
+  <tr>
+    <td align="center">Active Directory Domain Services, click next and install</td>
+    <td align="center">Make a new forest, and enter a root domain name. I chose company.com</td>
+  </tr>
+</table>
