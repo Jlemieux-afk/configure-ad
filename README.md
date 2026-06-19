@@ -105,6 +105,7 @@ Created an OU for admins and employees to organize users.
 </p>
 <p>Logged in again with created accoutns to Client-1 </p>
 </br>
+<p>
 <table>
   <tr>
     <td><table>
@@ -120,13 +121,4 @@ Created an OU for admins and employees to organize users.
     <td align="center">Success!</td>
   </tr>
 </table>
-</td>
-     <td><img width="796" height="573" alt="image" src="https://github.com/user-attachments/assets/ef727233-4532-445c-b69d-a4f7798ad406" />
-</td>
-
-  </tr>
-  <tr>
-    <td align="center">Active Directory Domain Services, click next and install</td>
-    <td align="center">Make a new forest, and enter a root domain name. I chose company.com</td>
-  </tr>
-</table>
+</p>
