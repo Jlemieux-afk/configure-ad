@@ -129,11 +129,17 @@ Created an OU for admins and employees to organize users.
 </td>
      <td><img width="998" height="679" alt="image" src="https://github.com/user-attachments/assets/a4c9c4e0-661b-441b-9707-70f36c6c633c" />
 </td>
+    <td><img width="691" height="579" alt="image" src="https://github.com/user-attachments/assets/25c7fd23-95ce-45f2-88cd-2e2a58c8a83d" />
+</td>
+    <td><img width="864" height="735" alt="image" src="https://github.com/user-attachments/assets/2aaf4ae4-ebce-4a1d-9b8a-8b80e3b87993" />
+</td>
 
   </tr>
   <tr>
     <td align="center">New OU for the computers being accessed</td>
     <td align="center">edited the rule to enable "allow users to connect remotely"</td>
+    <td align="center">Added "remote desktop users" with members of Domain Users</td>
+    <td align="center">gpupdate /force on the client computer to update policy then check for localgroup </td>
   </tr>
 </table></p>
 
