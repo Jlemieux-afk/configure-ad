@@ -32,8 +32,12 @@ This is step 1 where the video shows a quick overview of setting up the base inf
   <tr>
     <td><img width="864" height="770" alt="image" src="https://github.com/user-attachments/assets/ba08ce62-9fd1-4769-9388-87fa5eb51810" />
 </td>
-    <td><img src="images/screenshot2.png" width="200" alt="Screenshot 2"></td>
-    <td><img src="images/screenshot3.png" width="200" alt="Screenshot 3"></td>
+    <td><img width="861" height="464" alt="image" src="https://github.com/user-attachments/assets/473fbd79-c4e9-46a3-87a5-153eb5da5e86" />
+</td>
+    <td><img width="789" height="541" alt="image" src="https://github.com/user-attachments/assets/ddb889d8-b4f5-4690-9f14-b428c382f321" />
+</td>
+    <td><img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/2fd736a3-3646-4df3-b73a-6a55e05c8855" />
+</td>
   </tr>
   <tr>
     <td align="center">Caption 1</td>
