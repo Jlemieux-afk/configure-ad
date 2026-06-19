@@ -73,7 +73,7 @@ Confirmed that Client-1 saw AD-1 as it's DNS server
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb02adf3-2ff8-4352-a096-d7d04575a420" />
 </p>
 <p>
-On AD-1, Install Active Directory Services from the server manager
+On AD-1, Install Active Directory Services from the server manager. After it's installed click the flag at the top and promote server to new forest. Enter domain name, password and install for AD-1 to become a Domain Controller
 </p>
 <br />
 <table>
