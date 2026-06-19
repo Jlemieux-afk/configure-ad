@@ -43,7 +43,7 @@ Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Co
     <td align="center">Active Directory Server setup</td>
     <td align="center">Network for Active Directory</td>
     <td align="center">Client 1 set up</td>
-    <td align="center">Client 2 also on the same network</td>
+    <td align="center">Client 1 also on the same network</td>
   </tr>
 </table>
 
