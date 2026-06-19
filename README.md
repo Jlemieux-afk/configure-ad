@@ -35,6 +35,7 @@ Created 2 VM's in Azure, one useing a Win10 Server for Active Drectory Domain Co
 <p>
 Then configured the network for AD-1 to have a static 10.0.0.4 IP address to prevent random IP configuration errors. Also made Client-1's DNS server AD-1's IP address
 </p>
+</br>
 <p>
 <table>
   <tr>
