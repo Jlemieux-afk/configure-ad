@@ -101,7 +101,7 @@ Created an OU for admins and employees to organize users.
 </br>
 <p>Success!
 </p>
-<p><img width="554" height="329" alt="image" src="https://github.com/user-attachments/assets/68b9037d-31d2-4d80-803c-035c95067f34" />
+<p><img width="791" height="541" alt="image" src="https://github.com/user-attachments/assets/76bc8303-63bc-42c0-a3ab-5ff1936ef4ea" />
 </p>
 <p>Logged in again with created accoutns to Client-1 </p>
 </br>
