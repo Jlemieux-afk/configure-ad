@@ -20,7 +20,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1 Create VM server to house Active Directory (AD-1) and a VM (Client-1) for Utilization in a single network
-- Step 2 
+- Step 2 Install active directory to the AD-1 and enable it as a Domain Controller
 - Step 3 
 - Step 4 Configure Active Directory with basic secruity permissions for a couple users
 
@@ -28,10 +28,22 @@ This project outlines the implementation of Active Directory within Azure Virtua
 
 This is step 1 where the video shows a quick overview of setting up the base infristructure we need to set up the AD service.
 <p>
-
-
+<table>
+  <tr>
+    <td><img width="864" height="770" alt="image" src="https://github.com/user-attachments/assets/ba08ce62-9fd1-4769-9388-87fa5eb51810" />
+</td>
+    <td><img src="images/screenshot2.png" width="200" alt="Screenshot 2"></td>
+    <td><img src="images/screenshot3.png" width="200" alt="Screenshot 3"></td>
+  </tr>
+  <tr>
+    <td align="center">Caption 1</td>
+    <td align="center">Caption 2</td>
+    <td align="center">Caption 3</td>
+  </tr>
+</table>
 
 </p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
