@@ -11,7 +11,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
-- 
+  
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022 Datacenter
