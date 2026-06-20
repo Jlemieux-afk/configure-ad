@@ -23,7 +23,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 - Step 1 Create VM server to house Active Directory (AD-1) and a VM (Client-1) for Utilization in a single network
 - Step 2 Install Active Directory (AD) to the AD-1 and enable it as a Domain Controller (DC)
 - Step 3 Create Users to utilize the domain through active remote desktops
-- Step 4 Configure Active Directory with basic secruity permissions for a couple users
+- Step 4 Configure Active Directory with basic secruity permissions for a couple users that can be scaled infinitely 
 
 <h2>Deployment and Configuration Steps</h2>
 
