@@ -122,7 +122,7 @@ Created an OU for admins and employees to organize users.
   </tr>
 </table>
 </br>
-<p> Created a new OU in AD-1 for the computers being accessed. Created a GPO under _computers and edited it to allow users in the Domain Users group to access the remote desktops categorized under _computers in AD. Then added a "Remote Desktop Users" group with Domain Users in it to be allowed remote desktop access. This makes it so when you add new emploee, they are automatically provisioned to use the remote desktop at the basic user level.</p>
+<p> Created a new OU in AD-1 for the computers being accessed. Created a GPO under _computers and edited it to allow  remote desktop access to machines categorized under _computers in AD. Then created a "Remote Desktop Users" group with Domain Users in it to be allowed remote desktop access. This makes it so when you add a new emploee, they are automatically provisioned to use the remote desktop at the basic user level.</p>
 <p><table>
   <tr>
     <td><img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/0bceb664-fa53-4dde-8b25-53b818fc242b" />
@@ -143,7 +143,7 @@ Created an OU for admins and employees to organize users.
   </tr>
 </table></p>
 </br>
-<p>Attmpted to log back into John Doe account with the updated policy, and it worked! To make sure it works for new hires, I added one more account to the employees folder </p>
+<p>Changed permissions of Jon Doe, and attmpted to log back into their account with the updated policy, and it worked! To make sure it works for new hires, I added one more account to the employees folder; Tim Ward. </p>
 
 <p>
   <table>
@@ -161,4 +161,4 @@ Created an OU for admins and employees to organize users.
 </table>
 </br>
 <h2> Summary </h2>
-<p>With the new AD DC configured, a company or group can now add users/admins to be able to log into local machines through remote desktop protocol. Anyone added to the Domain Admins group is able to configure or add people for the entire domain; anyone else added as will have access to the local machines for computing and can be given sperate access based on company needs and departments. Computers and other connected devices can be added to the _computers folder when they need to be provisioned for remote access of server files on the AC DC. Files can be created as well on the server to be shared based on group or specific permissions given. An example of this could be an Human Rescourse folder that holds company policies that need to be available to all employees i.e. PTO requirements, Company Healthcare, 401K, ETC. 
+<p>With this AD DC configuration, a company or group can now add users/admins that can log into local machines or VMs through remote desktop protocol. Domain Admins group have access to server and local machines with the same log in, and are able to configure or add new users, and change permissions for the domain; anyone else added will have access to the local machines, not the server, for computing and can be given sperate access based on company needs and departments. Computers and other connected devices can be added to the _computers folder when they need to be provisioned for remote access of server files on the AC DC. Files and folders can also be created by Domain Admins on the server to be shared based on group or specific permissions. An example of this could be an Human Rescourse folder that holds company policies that need to be available to all employees, but can only be edited by the HR department i.e. PTO Policy, Company Healthcare, 401K, ETC. 
