@@ -122,7 +122,7 @@ Created an OU for admins and employees to organize users.
   </tr>
 </table>
 </br>
-<p> Created _computers OU in AD-1 for the computers being accessed because the pre-set computers folder wasnt available in the group policy manager. Created a GPO under _computers and edited it to allow  remote desktop access to machines categorized under _computers in AD. Then created a "Remote Desktop Users" group with Domain Users in it to be allowed remote desktop access. This makes it so when you add a new emploee, they are automatically provisioned to use the remote desktop at the basic user level.</p>
+<p> Created _computers OU in AD-1 for the computers being accessed, because the pre-set computers folder wasnt available in the group policy manager, and moved Client-1 to it. Created a GPO under _computers and edited it to allow  remote desktop access to machines categorized under _computers in AD. Then created a "Remote Desktop Users" group with Domain Users in it to be allowed remote desktop access. This makes it so when you add a new emploee, they are automatically provisioned to use the remote desktop at the basic user level.</p>
 <p><table>
   <tr>
     <td><img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/0bceb664-fa53-4dde-8b25-53b818fc242b" />
