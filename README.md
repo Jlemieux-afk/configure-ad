@@ -143,7 +143,7 @@ Created an OU for admins and employees to organize users.
   </tr>
 </table></p>
 </br>
-<p>Changed permissions of Jon Doe, and attmpted to log back into their account with the updated policy, and it worked! To make sure it works for new hires, I added one more account to the employees folder; Tim Ward. </p>
+<p>Changed permissions of Jon Doe from domain admin to domain user to see if GPO was configured correctly, attmpted to log back into their account with the updated policy, and it worked! To make sure it works for new hires, I added one more account to the employees folder; Tim Ward. Logged into his account without adding anything but the name, username and password to the _employees folder. </p>
 
 <p>
   <table>
