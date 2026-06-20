@@ -4,7 +4,7 @@
 
 <h1>Active Directory Deployed and Configured in the Cloud (Azure)</h1>
 
-This project outlines the implementation of Active Directory within Azure Virtual Machines. The idea is to set up a backend server to allow for adding computer resources as well as admin/employee users that have permission to use remote desktops for computing as long as they are a user in the domain.<br />
+This project outlines the implementation of Active Directory within Azure Virtual Machines. The idea is to set up a back-end server to allow for adding computer resources as well as admin/employee users that have permission to use remote desktops for computing.<br />
 
 
 - Microsoft Azure (Virtual Machines/Compute)
