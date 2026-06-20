@@ -18,7 +18,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 - Windows Server 2022 Datacenter
 - Windows 10 Enterprise LTSC 2021
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 - Step 1 Create VM server to house Active Directory (AD-1) and a VM (Client-1) for Utilization in a single network
 - Step 2 Install Active Directory (AD) to the AD-1 and enable it as a Domain Controller (DC)
