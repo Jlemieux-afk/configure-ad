@@ -139,7 +139,7 @@ Created an OU for admins and employees to organize users.
     <td align="center">New OU for the computers being accessed</td>
     <td align="center">edited the rule to enable "allow users to connect remotely"</td>
     <td align="center">Added "remote desktop users" with members of Domain Users</td>
-    <td align="center">gpupdate /force on the client to update policy, check for localgroup "remote desktop users" "members COMPANY/Domain Users"</td>
+    <td align="center">gpupdate /force on the client to update policy, check for localgroup "remote desktop users" and came back with "members COMPANY/Domain Users" (group set up succesfully)</td>
   </tr>
 </table></p>
 </br>
